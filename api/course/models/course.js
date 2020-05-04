@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * Lifecycle callbacks for the `restaurant` model.
+ * Lifecycle callbacks for the `course` model.
  */
 
 module.exports = {
