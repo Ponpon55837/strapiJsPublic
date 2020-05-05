@@ -16,7 +16,7 @@
     "size": {
       "type": "integer",
       "required": true,
-      "unique": true
+      "unique": false
     },
     "image": {
       "model": "file",
@@ -32,6 +32,10 @@
     },
     "published": {
       "type": "datetime"
+    },
+    "categories": {
+      "via": "courses",
+      "collection": "category"
     }
   }
 }

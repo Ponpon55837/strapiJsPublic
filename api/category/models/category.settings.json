@@ -18,6 +18,11 @@
       "collection": "product",
       "via": "categories",
       "dominant": true
+    },
+    "courses": {
+      "collection": "course",
+      "via": "categories",
+      "dominant": true
     }
   }
 }
