@@ -1,0 +1,46 @@
+{
+  "kind": "collectionType",
+  "collectionName": "parks",
+  "info": {
+    "name": "park"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "areaId": {
+      "type": "string"
+    },
+    "areaName": {
+      "type": "string"
+    },
+    "parkName": {
+      "type": "string"
+    },
+    "totalSpace": {
+      "type": "integer"
+    },
+    "surplusSpace": {
+      "type": "integer"
+    },
+    "payGuide": {
+      "type": "text"
+    },
+    "introduction": {
+      "type": "text"
+    },
+    "address": {
+      "type": "string"
+    },
+    "wgsX": {
+      "type": "float"
+    },
+    "wgsY": {
+      "type": "float"
+    },
+    "parkId": {
+      "type": "string"
+    }
+  }
+}
