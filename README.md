@@ -2,7 +2,7 @@
 
 ## 安裝方式
 1. 請先安裝node.js [https://nodejs.org/en/](https://nodejs.org/en/)
-2. 下載整份zip，解壓縮後，使用終端機輸入`cd mystrapi-project`
+2. 下載整份zip，解壓縮後，使用終端機輸入`cd strapiJsPublic`
 3.   執行`npm install`
 
 ## 使用方式
