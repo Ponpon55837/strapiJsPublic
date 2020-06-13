@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "text_programs",
+  "info": {
+    "name": "textprogram"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "num": {
+      "type": "integer"
+    }
+  }
+}
