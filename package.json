@@ -12,7 +12,7 @@
   "devDependencies": {},
   "dependencies": {
     "knex": "<0.20.0",
-    "sqlite3": "latest",
+    "sqlite3": "^5.0.0",
     "strapi": "3.0.0-beta.20.1",
     "strapi-admin": "3.0.0-beta.20.1",
     "strapi-connector-bookshelf": "3.0.0-beta.20.1",
@@ -23,7 +23,7 @@
     "strapi-plugin-graphql": "3.0.0-beta.20.1",
     "strapi-plugin-upload": "3.0.0-beta.20.1",
     "strapi-plugin-users-permissions": "3.0.0-beta.20.1",
-    "strapi-utils": "3.0.0-beta.20.1"
+    "strapi-utils": "^3.0.0-beta.20.1"
   },
   "author": {
     "name": "upfloor5 who is a learning programmer."
